@@ -5,7 +5,7 @@ body {
 }
 
 .name {
-  color: #DF723E;
+  color: #04177F;
   display: inline-block;
   font-size: 1.4em;
   letter-spacing: 3px;
@@ -45,7 +45,7 @@ body {
 }
 
 .primary-titles {
-  color: #DF723E;
+  color: #04177F;
   display: inline-block;
   font-size: .9em;
   letter-spacing: 1px;
@@ -65,7 +65,7 @@ body {
 }
 
 .category-headers {
-  color: #DF723E;
+  color: #04177F;
   font-size: .9em;
   letter-spacing: 2px;
   margin-top: 3em;
